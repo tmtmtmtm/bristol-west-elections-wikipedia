@@ -32,7 +32,8 @@ Three one-offs:
 * Struck Off and Die Doctors Alliance
 * Taxpayers' Coalition Party
 
-I'll skip these for now, but might fix them up manually later.
+I've created a new `create-new-party.js` template to use with
+`wikibase-cli` to create these.
 
 Ste 3: Check for missing election IDs
 =====================================

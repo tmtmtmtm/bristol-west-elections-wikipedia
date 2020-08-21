@@ -1,0 +1,11 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Bristol_West_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q1072698",
+    "start": "1885",
+    "end": "9999"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}
